@@ -1,7 +1,7 @@
 # 🛡️ Certificados — Cibersegurança
 
 ## 🎓 Google Cybersecurity Professional Certificate — Course 1
-![Certificado Google](google-course1.png)
+![Certificado Google](google-course1.png.png)
 
 - **Plataforma:** Coursera / Google  
 - **Status:** Concluído (Course 1)  
